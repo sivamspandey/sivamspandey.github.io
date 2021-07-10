@@ -1,0 +1,2169 @@
+{
+    "india": [
+        {
+            "city": "Delhi",
+            "lat": "28.66",
+            "long": "77.23"
+        },
+        {
+            "city": "Mumbai",
+            "lat": "18.9667",
+            "long": "72.8333"
+        },
+        {
+            "city": "Kolkata",
+            "lat": "22.5411",
+            "long": "88.3378"
+        },
+        {
+            "city": "Bangalore",
+            "lat": "12.9699",
+            "long": "77.598"
+        },
+        {
+            "city": "Chennai",
+            "lat": "13.0825",
+            "long": "80.275"
+        },
+        {
+            "city": "Hyderabad",
+            "lat": "17.3667",
+            "long": "78.4667"
+        },
+        {
+            "city": "Pune",
+            "lat": "18.5196",
+            "long": "73.8553"
+        },
+        {
+            "city": "Ahmadabad",
+            "lat": "23.03",
+            "long": "72.58"
+        },
+        {
+            "city": "Surat",
+            "lat": "21.17",
+            "long": "72.83"
+        },
+        {
+            "city": "Lucknow",
+            "lat": "26.847",
+            "long": "80.947"
+        },
+        {
+            "city": "Jaipur",
+            "lat": "26.9167",
+            "long": "75.8667"
+        },
+        {
+            "city": "Cawnpore",
+            "lat": "26.4725",
+            "long": "80.3311"
+        },
+        {
+            "city": "Mirzapur",
+            "lat": "25.15",
+            "long": "82.58"
+        },
+        {
+            "city": "Nagpur",
+            "lat": "21.1539",
+            "long": "79.0831"
+        },
+        {
+            "city": "Ghaziabad",
+            "lat": "28.6667",
+            "long": "77.4167"
+        },
+        {
+            "city": "Indore",
+            "lat": "22.7206",
+            "long": "75.8472"
+        },
+        {
+            "city": "Vadodara",
+            "lat": "22.3",
+            "long": "73.2"
+        },
+        {
+            "city": "Vishakhapatnam",
+            "lat": "17.7333",
+            "long": "83.3167"
+        },
+        {
+            "city": "Bhopal",
+            "lat": "23.25",
+            "long": "77.4167"
+        },
+        {
+            "city": "Chinchvad",
+            "lat": "18.6278",
+            "long": "73.8131"
+        },
+        {
+            "city": "Patna",
+            "lat": "25.61",
+            "long": "85.1414"
+        },
+        {
+            "city": "Ludhiana",
+            "lat": "30.9083",
+            "long": "75.8486"
+        },
+        {
+            "city": "Agra",
+            "lat": "27.18",
+            "long": "78.02"
+        },
+        {
+            "city": "Kalyan",
+            "lat": "19.2502",
+            "long": "73.1602"
+        },
+        {
+            "city": "Madurai",
+            "lat": "9.9197",
+            "long": "78.1194"
+        },
+        {
+            "city": "Jamshedpur",
+            "lat": "22.8",
+            "long": "86.1833"
+        },
+        {
+            "city": "Nasik",
+            "lat": "20",
+            "long": "73.7833"
+        },
+        {
+            "city": "Faridabad",
+            "lat": "28.4333",
+            "long": "77.3167"
+        },
+        {
+            "city": "Aurangabad",
+            "lat": "19.88",
+            "long": "75.32"
+        },
+        {
+            "city": "Rajkot",
+            "lat": "22.2969",
+            "long": "70.7984"
+        },
+        {
+            "city": "Meerut",
+            "lat": "28.99",
+            "long": "77.7"
+        },
+        {
+            "city": "Jabalpur",
+            "lat": "23.1667",
+            "long": "79.9333"
+        },
+        {
+            "city": "Thane",
+            "lat": "19.18",
+            "long": "72.9633"
+        },
+        {
+            "city": "Dhanbad",
+            "lat": "23.7928",
+            "long": "86.435"
+        },
+        {
+            "city": "Allahabad",
+            "lat": "25.455",
+            "long": "81.84"
+        },
+        {
+            "city": "Varanasi",
+            "lat": "25.3189",
+            "long": "83.0128"
+        },
+        {
+            "city": "Srinagar",
+            "lat": "34.0911",
+            "long": "74.8061"
+        },
+        {
+            "city": "Amritsar",
+            "lat": "31.6167",
+            "long": "74.85"
+        },
+        {
+            "city": "Aligarh",
+            "lat": "27.88",
+            "long": "78.08"
+        },
+        {
+            "city": "Bhiwandi",
+            "lat": "19.3",
+            "long": "73.0667"
+        },
+        {
+            "city": "Gwalior",
+            "lat": "26.215",
+            "long": "78.1931"
+        },
+        {
+            "city": "Bhilai",
+            "lat": "21.2167",
+            "long": "81.4333"
+        },
+        {
+            "city": "Haora",
+            "lat": "22.59",
+            "long": "88.31"
+        },
+        {
+            "city": "Ranchi",
+            "lat": "23.3556",
+            "long": "85.3347"
+        },
+        {
+            "city": "Bezwada",
+            "lat": "16.5167",
+            "long": "80.6167"
+        },
+        {
+            "city": "Chandigarh",
+            "lat": "30.7353",
+            "long": "76.7911"
+        },
+        {
+            "city": "Mysore",
+            "lat": "12.3086",
+            "long": "76.6531"
+        },
+        {
+            "city": "Raipur",
+            "lat": "21.2379",
+            "long": "81.6337"
+        },
+        {
+            "city": "Kota",
+            "lat": "25.18",
+            "long": "75.83"
+        },
+        {
+            "city": "New Delhi",
+            "lat": "28.7",
+            "long": "77.2"
+        },
+        {
+            "city": "Bareilly",
+            "lat": "28.364",
+            "long": "79.415"
+        },
+        {
+            "city": "Jodhpur",
+            "lat": "26.2918",
+            "long": "73.0168"
+        },
+        {
+            "city": "Dispur",
+            "lat": "26.15",
+            "long": "91.77"
+        },
+        {
+            "city": "Coimbatore",
+            "lat": "11",
+            "long": "76.9667"
+        },
+        {
+            "city": "Guwahati",
+            "lat": "26.1667",
+            "long": "91.7667"
+        },
+        {
+            "city": "Solapur",
+            "lat": "17.6833",
+            "long": "75.9167"
+        },
+        {
+            "city": "Trichinopoly",
+            "lat": "10.8269",
+            "long": "78.6928"
+        },
+        {
+            "city": "Hubli",
+            "lat": "15.36",
+            "long": "75.125"
+        },
+        {
+            "city": "Jalandhar",
+            "lat": "31.3256",
+            "long": "75.5792"
+        },
+        {
+            "city": "Bhubaneshwar",
+            "lat": "20.2644",
+            "long": "85.8281"
+        },
+        {
+            "city": "Bhayandar",
+            "lat": "19.3",
+            "long": "72.85"
+        },
+        {
+            "city": "Moradabad",
+            "lat": "28.8418",
+            "long": "78.7568"
+        },
+        {
+            "city": "Kolhapur",
+            "lat": "16.7",
+            "long": "74.2333"
+        },
+        {
+            "city": "Thiruvananthapuram",
+            "lat": "8.5",
+            "long": "76.8997"
+        },
+        {
+            "city": "Saharanpur",
+            "lat": "29.964",
+            "long": "77.546"
+        },
+        {
+            "city": "Warangal",
+            "lat": "17.9756",
+            "long": "79.6011"
+        },
+        {
+            "city": "Salem",
+            "lat": "11.65",
+            "long": "78.1667"
+        },
+        {
+            "city": "Malegaon",
+            "lat": "20.55",
+            "long": "74.55"
+        },
+        {
+            "city": "Kochi",
+            "lat": "9.9667",
+            "long": "76.2833"
+        },
+        {
+            "city": "Gorakhpur",
+            "lat": "26.7611",
+            "long": "83.3667"
+        },
+        {
+            "city": "Shimoga",
+            "lat": "13.9304",
+            "long": "75.56"
+        },
+        {
+            "city": "Guntur",
+            "lat": "16.3",
+            "long": "80.45"
+        },
+        {
+            "city": "Tiruppur",
+            "lat": "11.1075",
+            "long": "77.3398"
+        },
+        {
+            "city": "Raurkela",
+            "lat": "22.2492",
+            "long": "84.8828"
+        },
+        {
+            "city": "Mangalore",
+            "lat": "12.8703",
+            "long": "74.8806"
+        },
+        {
+            "city": "Nanded",
+            "lat": "19.15",
+            "long": "77.3333"
+        },
+        {
+            "city": "Cuttack",
+            "lat": "20.45",
+            "long": "85.8667"
+        },
+        {
+            "city": "Chanda",
+            "lat": "19.95",
+            "long": "79.3"
+        },
+        {
+            "city": "Dehra Dun",
+            "lat": "30.318",
+            "long": "78.029"
+        },
+        {
+            "city": "Durgapur",
+            "lat": "23.55",
+            "long": "87.32"
+        },
+        {
+            "city": "Asansol",
+            "lat": "23.6833",
+            "long": "86.9667"
+        },
+        {
+            "city": "Bhavnagar",
+            "lat": "21.765",
+            "long": "72.1369"
+        },
+        {
+            "city": "Nellore",
+            "lat": "14.4333",
+            "long": "79.9667"
+        },
+        {
+            "city": "Amravati",
+            "lat": "20.9333",
+            "long": "77.75"
+        },
+        {
+            "city": "Ajmer",
+            "lat": "26.468",
+            "long": "74.639"
+        },
+        {
+            "city": "Tinnevelly",
+            "lat": "8.7289",
+            "long": "77.7081"
+        },
+        {
+            "city": "Bikaner",
+            "lat": "28.0181",
+            "long": "73.3169"
+        },
+        {
+            "city": "Agartala",
+            "lat": "23.8333",
+            "long": "91.2667"
+        },
+        {
+            "city": "Ujjain",
+            "lat": "23.1828",
+            "long": "75.7772"
+        },
+        {
+            "city": "Ulhasnagar",
+            "lat": "19.2167",
+            "long": "73.15"
+        },
+        {
+            "city": "Jhansi",
+            "lat": "25.4486",
+            "long": "78.5696"
+        },
+        {
+            "city": "Davangere",
+            "lat": "14.4667",
+            "long": "75.9167"
+        },
+        {
+            "city": "Jammu",
+            "lat": "32.7333",
+            "long": "74.85"
+        },
+        {
+            "city": "Belgaum",
+            "lat": "15.8667",
+            "long": "74.5"
+        },
+        {
+            "city": "Gulbarga",
+            "lat": "17.3333",
+            "long": "76.8333"
+        },
+        {
+            "city": "Jamnagar",
+            "lat": "22.47",
+            "long": "70.07"
+        },
+        {
+            "city": "Dhulia",
+            "lat": "20.9",
+            "long": "74.7833"
+        },
+        {
+            "city": "Gaya",
+            "lat": "24.75",
+            "long": "85.0167"
+        },
+        {
+            "city": "Jalgaon",
+            "lat": "21.0167",
+            "long": "75.5667"
+        },
+        {
+            "city": "Kurnool",
+            "lat": "15.8222",
+            "long": "78.035"
+        },
+        {
+            "city": "Udaipur",
+            "lat": "24.5833",
+            "long": "73.6833"
+        },
+        {
+            "city": "Bellary",
+            "lat": "15.15",
+            "long": "76.915"
+        },
+        {
+            "city": "Sangli",
+            "lat": "16.8667",
+            "long": "74.5667"
+        },
+        {
+            "city": "Tuticorin",
+            "lat": "8.7833",
+            "long": "78.1333"
+        },
+        {
+            "city": "Calicut",
+            "lat": "11.25",
+            "long": "75.7667"
+        },
+        {
+            "city": "Akola",
+            "lat": "20.7333",
+            "long": "77"
+        },
+        {
+            "city": "Bhagalpur",
+            "lat": "25.25",
+            "long": "87.0167"
+        },
+        {
+            "city": "Quilon",
+            "lat": "8.8853",
+            "long": "76.5864"
+        },
+        {
+            "city": "Sikar",
+            "lat": "27.6119",
+            "long": "75.1397"
+        },
+        {
+            "city": "Tumkur",
+            "lat": "13.33",
+            "long": "77.1"
+        },
+        {
+            "city": "Bhatpara",
+            "lat": "22.8667",
+            "long": "88.4167"
+        },
+        {
+            "city": "Muzaffarnagar",
+            "lat": "29.4708",
+            "long": "77.7033"
+        },
+        {
+            "city": "Kakinada",
+            "lat": "16.9333",
+            "long": "82.2167"
+        },
+        {
+            "city": "Bhilwara",
+            "lat": "25.35",
+            "long": "74.6333"
+        },
+        {
+            "city": "Nizamabad",
+            "lat": "18.6704",
+            "long": "78.1"
+        },
+        {
+            "city": "Panihati",
+            "lat": "22.69",
+            "long": "88.37"
+        },
+        {
+            "city": "Parbhani",
+            "lat": "19.2704",
+            "long": "76.76"
+        },
+        {
+            "city": "Rohtak",
+            "lat": "28.9",
+            "long": "76.5667"
+        },
+        {
+            "city": "Latur",
+            "lat": "18.4004",
+            "long": "76.57"
+        },
+        {
+            "city": "Rajapalaiyam",
+            "lat": "9.4204",
+            "long": "77.58"
+        },
+        {
+            "city": "Ahmadnagar",
+            "lat": "19.0833",
+            "long": "74.7333"
+        },
+        {
+            "city": "Rajahmundry",
+            "lat": "16.9833",
+            "long": "81.7833"
+        },
+        {
+            "city": "Cuddapah",
+            "lat": "14.4667",
+            "long": "78.8167"
+        },
+        {
+            "city": "Muzaffarpur",
+            "lat": "26.12",
+            "long": "85.3833"
+        },
+        {
+            "city": "Alwar",
+            "lat": "27.5667",
+            "long": "76.6167"
+        },
+        {
+            "city": "Brahmapur",
+            "lat": "19.32",
+            "long": "84.8"
+        },
+        {
+            "city": "Kamarhati",
+            "lat": "22.67",
+            "long": "88.37"
+        },
+        {
+            "city": "Bilaspur",
+            "lat": "22.15",
+            "long": "82.0167"
+        },
+        {
+            "city": "Mathura",
+            "lat": "27.4833",
+            "long": "77.6833"
+        },
+        {
+            "city": "Patiala",
+            "lat": "30.3204",
+            "long": "76.385"
+        },
+        {
+            "city": "Saugor",
+            "lat": "23.8504",
+            "long": "78.75"
+        },
+        {
+            "city": "Bijapur",
+            "lat": "16.8244",
+            "long": "75.7154"
+        },
+        {
+            "city": "Kulti",
+            "lat": "23.73",
+            "long": "86.85"
+        },
+        {
+            "city": "Shahjanpur",
+            "lat": "27.8804",
+            "long": "79.905"
+        },
+        {
+            "city": "Trichur",
+            "lat": "10.52",
+            "long": "76.21"
+        },
+        {
+            "city": "Barddhaman",
+            "lat": "23.25",
+            "long": "87.85"
+        },
+        {
+            "city": "Purnea",
+            "lat": "25.78",
+            "long": "87.47"
+        },
+        {
+            "city": "Sambalpur",
+            "lat": "21.4704",
+            "long": "83.9701"
+        },
+        {
+            "city": "Firozabad",
+            "lat": "27.15",
+            "long": "78.3949"
+        },
+        {
+            "city": "Hisar",
+            "lat": "29.1489",
+            "long": "75.7367"
+        },
+        {
+            "city": "Bidar",
+            "lat": "17.9229",
+            "long": "77.5175"
+        },
+        {
+            "city": "Rampur",
+            "lat": "28.8154",
+            "long": "79.025"
+        },
+        {
+            "city": "Shiliguri",
+            "lat": "26.72",
+            "long": "88.42"
+        },
+        {
+            "city": "Bali",
+            "lat": "22.65",
+            "long": "88.34"
+        },
+        {
+            "city": "Panipat",
+            "lat": "29.4004",
+            "long": "76.97"
+        },
+        {
+            "city": "Karimnagar",
+            "lat": "18.4333",
+            "long": "79.15"
+        },
+        {
+            "city": "Bhuj",
+            "lat": "23.2504",
+            "long": "69.81"
+        },
+        {
+            "city": "Ichalkaranji",
+            "lat": "16.7",
+            "long": "74.47"
+        },
+        {
+            "city": "Tirupati",
+            "lat": "13.65",
+            "long": "79.42"
+        },
+        {
+            "city": "Hospet",
+            "lat": "15.2667",
+            "long": "76.4"
+        },
+        {
+            "city": "Aizawl",
+            "lat": "23.7104",
+            "long": "92.72"
+        },
+        {
+            "city": "Sannai",
+            "lat": "24.16",
+            "long": "80.83"
+        },
+        {
+            "city": "Barasat",
+            "lat": "22.2333",
+            "long": "88.45"
+        },
+        {
+            "city": "Ratlam",
+            "lat": "23.3167",
+            "long": "75.0667"
+        },
+        {
+            "city": "Imphal",
+            "lat": "24.82",
+            "long": "93.95"
+        },
+        {
+            "city": "Drug",
+            "lat": "21.19",
+            "long": "81.28"
+        },
+        {
+            "city": "Handwara",
+            "lat": "34.4",
+            "long": "74.28"
+        },
+        {
+            "city": "Anantapur",
+            "lat": "14.6833",
+            "long": "77.6"
+        },
+        {
+            "city": "Etawah",
+            "lat": "26.7855",
+            "long": "79.015"
+        },
+        {
+            "city": "Raichur",
+            "lat": "16.2104",
+            "long": "77.355"
+        },
+        {
+            "city": "Ongole",
+            "lat": "15.5",
+            "long": "80.05"
+        },
+        {
+            "city": "Bharatpur",
+            "lat": "27.2172",
+            "long": "77.49"
+        },
+        {
+            "city": "Begusarai",
+            "lat": "25.42",
+            "long": "86.13"
+        },
+        {
+            "city": "Sonipat",
+            "lat": "28.9958",
+            "long": "77.0114"
+        },
+        {
+            "city": "Shrirampur",
+            "lat": "22.75",
+            "long": "88.34"
+        },
+        {
+            "city": "Hapur",
+            "lat": "28.7437",
+            "long": "77.7628"
+        },
+        {
+            "city": "Ramgundam",
+            "lat": "18.8",
+            "long": "79.45"
+        },
+        {
+            "city": "Secunderabad",
+            "lat": "17.45",
+            "long": "78.5"
+        },
+        {
+            "city": "Uluberiya",
+            "lat": "22.47",
+            "long": "88.11"
+        },
+        {
+            "city": "Porbandar",
+            "lat": "21.6425",
+            "long": "69.6047"
+        },
+        {
+            "city": "Puducherry",
+            "lat": "11.93",
+            "long": "79.83"
+        },
+        {
+            "city": "Vizianagaram",
+            "lat": "18.1167",
+            "long": "83.4167"
+        },
+        {
+            "city": "Pali",
+            "lat": "25.7725",
+            "long": "73.3233"
+        },
+        {
+            "city": "Nagercoil",
+            "lat": "8.17",
+            "long": "77.43"
+        },
+        {
+            "city": "Karnal",
+            "lat": "29.6804",
+            "long": "76.97"
+        },
+        {
+            "city": "Tanjore",
+            "lat": "10.8",
+            "long": "79.15"
+        },
+        {
+            "city": "Puri",
+            "lat": "19.8",
+            "long": "85.8167"
+        },
+        {
+            "city": "Sambhal",
+            "lat": "28.58",
+            "long": "78.55"
+        },
+        {
+            "city": "Naihati",
+            "lat": "22.9",
+            "long": "88.42"
+        },
+        {
+            "city": "Shimla",
+            "lat": "31.1033",
+            "long": "77.1722"
+        },
+        {
+            "city": "Kharagpur",
+            "lat": "22.3302",
+            "long": "87.3237"
+        },
+        {
+            "city": "Dindigul",
+            "lat": "10.35",
+            "long": "77.95"
+        },
+        {
+            "city": "Ingraj Bazar",
+            "lat": "25",
+            "long": "88.15"
+        },
+        {
+            "city": "Ellore",
+            "lat": "16.7",
+            "long": "81.1"
+        },
+        {
+            "city": "Nandyal",
+            "lat": "15.48",
+            "long": "78.48"
+        },
+        {
+            "city": "Haldia",
+            "lat": "22.0257",
+            "long": "88.0583"
+        },
+        {
+            "city": "Gurgaon",
+            "lat": "28.45",
+            "long": "77.02"
+        },
+        {
+            "city": "Bulandshahr",
+            "lat": "28.4104",
+            "long": "77.8484"
+        },
+        {
+            "city": "Baharampur",
+            "lat": "24.1",
+            "long": "88.25"
+        },
+        {
+            "city": "Chakradharpur",
+            "lat": "22.7",
+            "long": "85.63"
+        },
+        {
+            "city": "Madhyamgram",
+            "lat": "22.7",
+            "long": "88.45"
+        },
+        {
+            "city": "Bhiwani",
+            "lat": "28.7833",
+            "long": "76.1333"
+        },
+        {
+            "city": "Burhanpur",
+            "lat": "21.3004",
+            "long": "76.13"
+        },
+        {
+            "city": "Ghandinagar",
+            "lat": "23.22",
+            "long": "72.68"
+        },
+        {
+            "city": "Khammam",
+            "lat": "17.25",
+            "long": "80.15"
+        },
+        {
+            "city": "Hugli",
+            "lat": "22.9",
+            "long": "88.39"
+        },
+        {
+            "city": "Mahbubnagar",
+            "lat": "16.7333",
+            "long": "77.9833"
+        },
+        {
+            "city": "Raiganj",
+            "lat": "25.6167",
+            "long": "88.1167"
+        },
+        {
+            "city": "Mahesana",
+            "lat": "23.6",
+            "long": "72.4"
+        },
+        {
+            "city": "Adoni",
+            "lat": "15.63",
+            "long": "77.28"
+        },
+        {
+            "city": "Bhusaval",
+            "lat": "21.02",
+            "long": "75.83"
+        },
+        {
+            "city": "Bahraigh",
+            "lat": "27.6204",
+            "long": "81.6699"
+        },
+        {
+            "city": "Tonk",
+            "lat": "26.1505",
+            "long": "75.79"
+        },
+        {
+            "city": "Sirsa",
+            "lat": "29.4904",
+            "long": "75.03"
+        },
+        {
+            "city": "Jaunpur",
+            "lat": "25.7333",
+            "long": "82.6833"
+        },
+        {
+            "city": "Madanapalle",
+            "lat": "13.55",
+            "long": "78.5"
+        },
+        {
+            "city": "Alleppey",
+            "lat": "9.5004",
+            "long": "76.37"
+        },
+        {
+            "city": "Vellore",
+            "lat": "12.9204",
+            "long": "79.15"
+        },
+        {
+            "city": "Dam Dam",
+            "lat": "22.62",
+            "long": "88.42"
+        },
+        {
+            "city": "Chandannagar",
+            "lat": "22.8667",
+            "long": "88.3833"
+        },
+        {
+            "city": "Cuddalore",
+            "lat": "11.75",
+            "long": "79.75"
+        },
+        {
+            "city": "Chirala",
+            "lat": "15.82",
+            "long": "80.35"
+        },
+        {
+            "city": "Titagarh",
+            "lat": "22.74",
+            "long": "88.37"
+        },
+        {
+            "city": "Deo",
+            "lat": "24.6561",
+            "long": "84.4356"
+        },
+        {
+            "city": "Machilipatnam",
+            "lat": "16.1667",
+            "long": "81.1333"
+        },
+        {
+            "city": "Medinipur",
+            "lat": "22.4333",
+            "long": "87.3333"
+        },
+        {
+            "city": "Baramula",
+            "lat": "34.2",
+            "long": "74.34"
+        },
+        {
+            "city": "Fatehpur",
+            "lat": "25.8804",
+            "long": "80.8"
+        },
+        {
+            "city": "Tenali",
+            "lat": "16.243",
+            "long": "80.64"
+        },
+        {
+            "city": "Udipi",
+            "lat": "13.3322",
+            "long": "74.7461"
+        },
+        {
+            "city": "Sitalpur",
+            "lat": "27.63",
+            "long": "80.75"
+        },
+        {
+            "city": "Proddatur",
+            "lat": "14.73",
+            "long": "78.55"
+        },
+        {
+            "city": "Conjeeveram",
+            "lat": "12.8308",
+            "long": "79.7078"
+        },
+        {
+            "city": "Navsari",
+            "lat": "20.8504",
+            "long": "72.92"
+        },
+        {
+            "city": "Godhra",
+            "lat": "22.7755",
+            "long": "73.6149"
+        },
+        {
+            "city": "Budaun",
+            "lat": "28.03",
+            "long": "79.09"
+        },
+        {
+            "city": "Chittoor",
+            "lat": "13.2",
+            "long": "79.1167"
+        },
+        {
+            "city": "Krishnanagar",
+            "lat": "23.4",
+            "long": "88.5"
+        },
+        {
+            "city": "Saharsa",
+            "lat": "25.88",
+            "long": "86.6"
+        },
+        {
+            "city": "Haripur",
+            "lat": "31.52",
+            "long": "75.98"
+        },
+        {
+            "city": "Pathankot",
+            "lat": "32.2689",
+            "long": "75.6497"
+        },
+        {
+            "city": "Vidisha",
+            "lat": "23.5239",
+            "long": "77.8061"
+        },
+        {
+            "city": "Nalgonda",
+            "lat": "17.05",
+            "long": "79.27"
+        },
+        {
+            "city": "Balurghat",
+            "lat": "25.2167",
+            "long": "88.7667"
+        },
+        {
+            "city": "Dibrugarh",
+            "lat": "27.4833",
+            "long": "95"
+        },
+        {
+            "city": "Fyzabad",
+            "lat": "26.7504",
+            "long": "82.17"
+        },
+        {
+            "city": "Silchar",
+            "lat": "24.7904",
+            "long": "92.79"
+        },
+        {
+            "city": "Shantipur",
+            "lat": "23.25",
+            "long": "88.43"
+        },
+        {
+            "city": "Hindupur",
+            "lat": "13.83",
+            "long": "77.49"
+        },
+        {
+            "city": "Erode",
+            "lat": "11.3408",
+            "long": "77.7172"
+        },
+        {
+            "city": "Jamuria",
+            "lat": "23.7",
+            "long": "87.08"
+        },
+        {
+            "city": "Habra",
+            "lat": "22.83",
+            "long": "88.63"
+        },
+        {
+            "city": "Mauli",
+            "lat": "30.7194",
+            "long": "76.7181"
+        },
+        {
+            "city": "Ambala",
+            "lat": "30.3786",
+            "long": "76.7725"
+        },
+        {
+            "city": "Shillong",
+            "lat": "25.5744",
+            "long": "91.8789"
+        },
+        {
+            "city": "Kolar",
+            "lat": "13.1333",
+            "long": "78.1333"
+        },
+        {
+            "city": "Bhimavaram",
+            "lat": "16.5333",
+            "long": "81.5333"
+        },
+        {
+            "city": "Mandsaur",
+            "lat": "24.03",
+            "long": "75.08"
+        },
+        {
+            "city": "Chicacole",
+            "lat": "18.3",
+            "long": "83.9"
+        },
+        {
+            "city": "Tiruvannamalai",
+            "lat": "12.2604",
+            "long": "79.1"
+        },
+        {
+            "city": "Mandya",
+            "lat": "12.5242",
+            "long": "76.8958"
+        },
+        {
+            "city": "Bankura",
+            "lat": "23.25",
+            "long": "87.0667"
+        },
+        {
+            "city": "Hassan",
+            "lat": "13.005",
+            "long": "76.1028"
+        },
+        {
+            "city": "Yavatmal",
+            "lat": "20.4",
+            "long": "78.1333"
+        },
+        {
+            "city": "Pilibhit",
+            "lat": "28.64",
+            "long": "79.81"
+        },
+        {
+            "city": "Palghat",
+            "lat": "10.7792",
+            "long": "76.6547"
+        },
+        {
+            "city": "Palakollu",
+            "lat": "16.5333",
+            "long": "81.7333"
+        },
+        {
+            "city": "Abohar",
+            "lat": "30.1204",
+            "long": "74.29"
+        },
+        {
+            "city": "Kanchrapara",
+            "lat": "22.97",
+            "long": "88.43"
+        },
+        {
+            "city": "Hathras",
+            "lat": "27.6",
+            "long": "78.05"
+        },
+        {
+            "city": "Port Blair",
+            "lat": "11.6667",
+            "long": "92.75"
+        },
+        {
+            "city": "Alipur Duar",
+            "lat": "26.4837",
+            "long": "89.5667"
+        },
+        {
+            "city": "Basirhat",
+            "lat": "22.6572",
+            "long": "88.8942"
+        },
+        {
+            "city": "Navadwip",
+            "lat": "23.4088",
+            "long": "88.3657"
+        },
+        {
+            "city": "Guntakal",
+            "lat": "15.17",
+            "long": "77.38"
+        },
+        {
+            "city": "Halisahar",
+            "lat": "22.95",
+            "long": "88.42"
+        },
+        {
+            "city": "Rishra",
+            "lat": "22.71",
+            "long": "88.35"
+        },
+        {
+            "city": "Baidyabati",
+            "lat": "22.79",
+            "long": "88.32"
+        },
+        {
+            "city": "Dharmavaram",
+            "lat": "14.4142",
+            "long": "77.715"
+        },
+        {
+            "city": "Darjeeling",
+            "lat": "27.0417",
+            "long": "88.2631"
+        },
+        {
+            "city": "Gudivada",
+            "lat": "16.43",
+            "long": "80.99"
+        },
+        {
+            "city": "Sopur",
+            "lat": "34.3",
+            "long": "74.47"
+        },
+        {
+            "city": "Adilabad",
+            "lat": "19.6667",
+            "long": "78.5333"
+        },
+        {
+            "city": "Narasaraopet",
+            "lat": "16.236",
+            "long": "80.054"
+        },
+        {
+            "city": "Chittaurgarh",
+            "lat": "24.8894",
+            "long": "74.6239"
+        },
+        {
+            "city": "Bansbaria",
+            "lat": "22.97",
+            "long": "88.4"
+        },
+        {
+            "city": "Valparai",
+            "lat": "10.3204",
+            "long": "76.97"
+        },
+        {
+            "city": "Champdani",
+            "lat": "22.8",
+            "long": "88.37"
+        },
+        {
+            "city": "Osmanabad",
+            "lat": "18.1667",
+            "long": "76.05"
+        },
+        {
+            "city": "Khardah",
+            "lat": "22.72",
+            "long": "88.38"
+        },
+        {
+            "city": "Bangaon",
+            "lat": "23.07",
+            "long": "88.82"
+        },
+        {
+            "city": "Tadpatri",
+            "lat": "14.92",
+            "long": "78.02"
+        },
+        {
+            "city": "Jalpaiguri",
+            "lat": "26.5167",
+            "long": "88.7333"
+        },
+        {
+            "city": "Suriapet",
+            "lat": "17.15",
+            "long": "79.6167"
+        },
+        {
+            "city": "Tadepallegudem",
+            "lat": "16.8333",
+            "long": "81.5"
+        },
+        {
+            "city": "Kalyani",
+            "lat": "22.975",
+            "long": "88.4344"
+        },
+        {
+            "city": "Negapatam",
+            "lat": "10.7667",
+            "long": "79.8333"
+        },
+        {
+            "city": "Bhadreswar",
+            "lat": "22.82",
+            "long": "88.35"
+        },
+        {
+            "city": "Chilakalurupet",
+            "lat": "16.0892",
+            "long": "80.1672"
+        },
+        {
+            "city": "Gangtok",
+            "lat": "27.33",
+            "long": "88.62"
+        },
+        {
+            "city": "Kohima",
+            "lat": "25.6667",
+            "long": "94.1194"
+        },
+        {
+            "city": "Nagari",
+            "lat": "13.33",
+            "long": "79.58"
+        },
+        {
+            "city": "Itanagar",
+            "lat": "27.1",
+            "long": "93.62"
+        },
+        {
+            "city": "Mandapeta",
+            "lat": "16.87",
+            "long": "81.93"
+        },
+        {
+            "city": "Pithapuram",
+            "lat": "17.1167",
+            "long": "82.2667"
+        },
+        {
+            "city": "Bodupal",
+            "lat": "17.4139",
+            "long": "78.5783"
+        },
+        {
+            "city": "Daman",
+            "lat": "20.417",
+            "long": "72.85"
+        },
+        {
+            "city": "Amudalavalasa",
+            "lat": "18.4167",
+            "long": "83.9"
+        },
+        {
+            "city": "Panaji",
+            "lat": "15.48",
+            "long": "73.83"
+        },
+        {
+            "city": "Jaynagar-Majilpur",
+            "lat": "22.1772",
+            "long": "88.4258"
+        },
+        {
+            "city": "Mahadipur",
+            "lat": "24.8566",
+            "long": "88.1248"
+        },
+        {
+            "city": "Kavaratti",
+            "lat": "10.5626",
+            "long": "72.6369"
+        },
+        {
+            "city": "Khambhat",
+            "lat": "22.3131",
+            "long": "72.6194"
+        },
+        {
+            "city": "Aurangabad",
+            "lat": "24.7704",
+            "long": "84.38"
+        },
+        {
+            "city": "Emmiganur",
+            "lat": "15.7333",
+            "long": "77.4833"
+        },
+        {
+            "city": "Rayachoti",
+            "lat": "14.05",
+            "long": "78.75"
+        },
+        {
+            "city": "Kavali",
+            "lat": "14.9123",
+            "long": "79.9944"
+        },
+        {
+            "city": "Mancheral",
+            "lat": "18.8679",
+            "long": "79.4639"
+        },
+        {
+            "city": "Kadiri",
+            "lat": "14.12",
+            "long": "78.17"
+        },
+        {
+            "city": "Ootacamund",
+            "lat": "11.4086",
+            "long": "76.6939"
+        },
+        {
+            "city": "Anakapalle",
+            "lat": "17.68",
+            "long": "83.02"
+        },
+        {
+            "city": "Sirsilla",
+            "lat": "18.38",
+            "long": "78.83"
+        },
+        {
+            "city": "Kamareddipet",
+            "lat": "18.3167",
+            "long": "78.35"
+        },
+        {
+            "city": "Paloncha",
+            "lat": "17.5815",
+            "long": "80.6765"
+        },
+        {
+            "city": "Kottagudem",
+            "lat": "17.55",
+            "long": "80.63"
+        },
+        {
+            "city": "Tanuku",
+            "lat": "16.75",
+            "long": "81.7"
+        },
+        {
+            "city": "Bodhan",
+            "lat": "18.67",
+            "long": "77.9"
+        },
+        {
+            "city": "Karur",
+            "lat": "10.9504",
+            "long": "78.0833"
+        },
+        {
+            "city": "Mangalagiri",
+            "lat": "16.43",
+            "long": "80.55"
+        },
+        {
+            "city": "Kairana",
+            "lat": "29.4",
+            "long": "77.2"
+        },
+        {
+            "city": "Bapatla",
+            "lat": "15.8889",
+            "long": "80.47"
+        },
+        {
+            "city": "Markapur",
+            "lat": "15.735",
+            "long": "79.27"
+        },
+        {
+            "city": "Malaut",
+            "lat": "30.19",
+            "long": "74.499"
+        },
+        {
+            "city": "Badvel",
+            "lat": "14.75",
+            "long": "79.05"
+        },
+        {
+            "city": "Jorhat",
+            "lat": "26.75",
+            "long": "94.2167"
+        },
+        {
+            "city": "Koratla",
+            "lat": "18.82",
+            "long": "78.72"
+        },
+        {
+            "city": "Pulivendla",
+            "lat": "14.4167",
+            "long": "78.2333"
+        },
+        {
+            "city": "Armur",
+            "lat": "18.79",
+            "long": "78.29"
+        },
+        {
+            "city": "Jaisalmer",
+            "lat": "26.9167",
+            "long": "70.9167"
+        },
+        {
+            "city": "Tadepalle",
+            "lat": "16.4667",
+            "long": "80.6"
+        },
+        {
+            "city": "Gadwal",
+            "lat": "16.23",
+            "long": "77.8"
+        },
+        {
+            "city": "Jatani",
+            "lat": "20.17",
+            "long": "85.7"
+        },
+        {
+            "city": "Wanparti",
+            "lat": "16.361",
+            "long": "78.0627"
+        },
+        {
+            "city": "Ponnuru",
+            "lat": "16.0667",
+            "long": "80.5667"
+        },
+        {
+            "city": "Vinukonda",
+            "lat": "16.05",
+            "long": "79.75"
+        },
+        {
+            "city": "Tezpur",
+            "lat": "26.6338",
+            "long": "92.8"
+        },
+        {
+            "city": "Narasapur",
+            "lat": "16.4333",
+            "long": "81.6833"
+        },
+        {
+            "city": "Samalkot",
+            "lat": "17.0531",
+            "long": "82.1695"
+        },
+        {
+            "city": "Kothapet",
+            "lat": "19.3333",
+            "long": "79.4833"
+        },
+        {
+            "city": "Macherla",
+            "lat": "16.48",
+            "long": "79.43"
+        },
+        {
+            "city": "Kandukur",
+            "lat": "15.2165",
+            "long": "79.9042"
+        },
+        {
+            "city": "Bobbili",
+            "lat": "18.5667",
+            "long": "83.4167"
+        },
+        {
+            "city": "Sattenapalle",
+            "lat": "16.3962",
+            "long": "80.1497"
+        },
+        {
+            "city": "Vrindavan",
+            "lat": "27.5806",
+            "long": "77.7006"
+        },
+        {
+            "city": "Belampalli",
+            "lat": "19.0558",
+            "long": "79.4931"
+        },
+        {
+            "city": "Bhimunipatnam",
+            "lat": "17.8864",
+            "long": "83.4471"
+        },
+        {
+            "city": "Puttur",
+            "lat": "13.45",
+            "long": "79.55"
+        },
+        {
+            "city": "Amalapuram",
+            "lat": "16.5833",
+            "long": "82.0167"
+        },
+        {
+            "city": "Punganuru",
+            "lat": "13.3667",
+            "long": "78.5833"
+        },
+        {
+            "city": "Nandod",
+            "lat": "21.8704",
+            "long": "73.5026"
+        },
+        {
+            "city": "Palmaner",
+            "lat": "13.2",
+            "long": "78.75"
+        },
+        {
+            "city": "Jalor",
+            "lat": "25.35",
+            "long": "72.6167"
+        },
+        {
+            "city": "Vikarabad",
+            "lat": "17.33",
+            "long": "77.9"
+        },
+        {
+            "city": "Jagtial",
+            "lat": "18.8",
+            "long": "78.93"
+        },
+        {
+            "city": "Dholka",
+            "lat": "22.72",
+            "long": "72.47"
+        },
+        {
+            "city": "Tuni",
+            "lat": "17.35",
+            "long": "82.55"
+        },
+        {
+            "city": "Jaggayyapeta",
+            "lat": "16.892",
+            "long": "80.0976"
+        },
+        {
+            "city": "Venkatagiri",
+            "lat": "13.9667",
+            "long": "79.5833"
+        },
+        {
+            "city": "Sihor",
+            "lat": "21.7",
+            "long": "71.97"
+        },
+        {
+            "city": "Jangaon",
+            "lat": "17.72",
+            "long": "79.18"
+        },
+        {
+            "city": "Mandamari",
+            "lat": "18.9822",
+            "long": "79.4811"
+        },
+        {
+            "city": "Metpalli",
+            "lat": "18.8297",
+            "long": "78.5878"
+        },
+        {
+            "city": "Repalle",
+            "lat": "16.02",
+            "long": "80.85"
+        },
+        {
+            "city": "Bhainsa",
+            "lat": "19.1",
+            "long": "77.9667"
+        },
+        {
+            "city": "Jasdan",
+            "lat": "22.03",
+            "long": "71.2"
+        },
+        {
+            "city": "Jammalamadugu",
+            "lat": "14.85",
+            "long": "78.38"
+        },
+        {
+            "city": "Rameswaram",
+            "lat": "9.28",
+            "long": "79.3"
+        },
+        {
+            "city": "Nidadavole",
+            "lat": "16.92",
+            "long": "81.67"
+        },
+        {
+            "city": "Addanki",
+            "lat": "15.811",
+            "long": "79.9738"
+        },
+        {
+            "city": "Rajgir",
+            "lat": "25.03",
+            "long": "85.42"
+        },
+        {
+            "city": "Rajaori",
+            "lat": "33.38",
+            "long": "74.3"
+        },
+        {
+            "city": "Naini Tal",
+            "lat": "29.3919",
+            "long": "79.4542"
+        },
+        {
+            "city": "Kovvur",
+            "lat": "17.0167",
+            "long": "81.7333"
+        },
+        {
+            "city": "Channarayapatna",
+            "lat": "12.9",
+            "long": "76.39"
+        },
+        {
+            "city": "Maihar",
+            "lat": "24.27",
+            "long": "80.75"
+        },
+        {
+            "city": "Junnar",
+            "lat": "19.2",
+            "long": "73.88"
+        },
+        {
+            "city": "Solan",
+            "lat": "30.92",
+            "long": "77.12"
+        },
+        {
+            "city": "Dwarka",
+            "lat": "22.2403",
+            "long": "68.9686"
+        },
+        {
+            "city": "Pathanamthitta",
+            "lat": "9.2647",
+            "long": "76.7872"
+        },
+        {
+            "city": "Kodaikanal",
+            "lat": "10.23",
+            "long": "77.48"
+        },
+        {
+            "city": "Udhampur",
+            "lat": "32.93",
+            "long": "75.13"
+        },
+        {
+            "city": "Yellandu",
+            "lat": "17.6",
+            "long": "80.33"
+        },
+        {
+            "city": "Giddalur",
+            "lat": "15.3784",
+            "long": "78.9265"
+        },
+        {
+            "city": "Angamali",
+            "lat": "10.196",
+            "long": "76.386"
+        },
+        {
+            "city": "Shrirangapattana",
+            "lat": "12.4181",
+            "long": "76.6947"
+        },
+        {
+            "city": "Fatehpur Sikri",
+            "lat": "27.0911",
+            "long": "77.6611"
+        },
+        {
+            "city": "Umaria",
+            "lat": "23.5245",
+            "long": "80.8365"
+        },
+        {
+            "city": "Mangur",
+            "lat": "17.9373",
+            "long": "80.8185"
+        },
+        {
+            "city": "Pedana",
+            "lat": "16.2667",
+            "long": "81.1667"
+        },
+        {
+            "city": "Uran",
+            "lat": "18.89",
+            "long": "72.95"
+        },
+        {
+            "city": "Chimakurti",
+            "lat": "15.5819",
+            "long": "79.868"
+        },
+        {
+            "city": "Devarkonda",
+            "lat": "16.7",
+            "long": "78.9333"
+        },
+        {
+            "city": "Silvassa",
+            "lat": "20.2666",
+            "long": "73.0166"
+        },
+        {
+            "city": "Bandipura",
+            "lat": "34.4225",
+            "long": "74.6375"
+        },
+        {
+            "city": "Pamidi",
+            "lat": "14.95",
+            "long": "77.5833"
+        },
+        {
+            "city": "Narasannapeta",
+            "lat": "18.4151",
+            "long": "84.0447"
+        },
+        {
+            "city": "Khed Brahma",
+            "lat": "24.0299",
+            "long": "73.0463"
+        },
+        {
+            "city": "Khajuraho",
+            "lat": "24.85",
+            "long": "79.9333"
+        },
+        {
+            "city": "Diu",
+            "lat": "20.7197",
+            "long": "70.9904"
+        },
+        {
+            "city": "Gauripur",
+            "lat": "26.08",
+            "long": "89.97"
+        },
+        {
+            "city": "Koilkuntla",
+            "lat": "15.2333",
+            "long": "78.3167"
+        },
+        {
+            "city": "Kulgam",
+            "lat": "33.64",
+            "long": "75.02"
+        },
+        {
+            "city": "Abu",
+            "lat": "24.5925",
+            "long": "72.7083"
+        },
+        {
+            "city": "Curchorem",
+            "lat": "15.25",
+            "long": "74.1"
+        },
+        {
+            "city": "Pushkar",
+            "lat": "26.5",
+            "long": "74.55"
+        },
+        {
+            "city": "Barehra",
+            "lat": "27.75",
+            "long": "78.5667"
+        },
+        {
+            "city": "Mundra",
+            "lat": "22.85",
+            "long": "69.73"
+        },
+        {
+            "city": "Belur",
+            "lat": "13.1642",
+            "long": "75.8647"
+        },
+        {
+            "city": "Dharmsala",
+            "lat": "32.2167",
+            "long": "76.3167"
+        },
+        {
+            "city": "Rajmahal",
+            "lat": "25.05",
+            "long": "87.84"
+        },
+        {
+            "city": "Kulu",
+            "lat": "31.96",
+            "long": "77.1"
+        },
+        {
+            "city": "Khed",
+            "lat": "17.72",
+            "long": "73.38"
+        },
+        {
+            "city": "Seven Pagodas",
+            "lat": "12.6227",
+            "long": "80.1939"
+        },
+        {
+            "city": "Konarka",
+            "lat": "19.8878",
+            "long": "86.0948"
+        },
+        {
+            "city": "Chipurupalle",
+            "lat": "18.3",
+            "long": "83.5667"
+        },
+        {
+            "city": "Ponduru",
+            "lat": "18.3508",
+            "long": "83.7567"
+        },
+        {
+            "city": "Panchgani",
+            "lat": "17.92",
+            "long": "73.82"
+        },
+        {
+            "city": "Parigi",
+            "lat": "13.8929",
+            "long": "77.4598"
+        },
+        {
+            "city": "Dubak",
+            "lat": "18.1914",
+            "long": "78.6783"
+        },
+        {
+            "city": "Betma",
+            "lat": "22.68",
+            "long": "75.62"
+        },
+        {
+            "city": "Khem Karan",
+            "lat": "31.16",
+            "long": "74.66"
+        },
+        {
+            "city": "Meghraj",
+            "lat": "23.5",
+            "long": "73.5"
+        },
+        {
+            "city": "Orchha",
+            "lat": "25.35",
+            "long": "78.64"
+        },
+        {
+            "city": "Naliya",
+            "lat": "23.2611",
+            "long": "68.8267"
+        },
+        {
+            "city": "Draksharama",
+            "lat": "16.7928",
+            "long": "82.0635"
+        },
+        {
+            "city": "Kilkunda",
+            "lat": "11.2569",
+            "long": "76.6697"
+        },
+        {
+            "city": "Chikhli",
+            "lat": "20.75",
+            "long": "73.07"
+        },
+        {
+            "city": "Niala Kondapalle",
+            "lat": "17.1",
+            "long": "80.0506"
+        },
+        {
+            "city": "Manali",
+            "lat": "32.2044",
+            "long": "77.17"
+        },
+        {
+            "city": "Amarkantak",
+            "lat": "22.6751",
+            "long": "81.7596"
+        },
+        {
+            "city": "Pedda Nandipadu",
+            "lat": "16.0728",
+            "long": "80.3294"
+        },
+        {
+            "city": "Loutolim",
+            "lat": "15.33",
+            "long": "73.98"
+        },
+        {
+            "city": "Lansdowne",
+            "lat": "29.83",
+            "long": "78.68"
+        }
+    ]
+}
